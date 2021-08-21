@@ -21,6 +21,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 #### Capitulo 14 (Transitorios inductivos)
 
+<img src="imagenes/cap14.png">
+
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 #### Capitulo 13 (Inductancia e inductores)
