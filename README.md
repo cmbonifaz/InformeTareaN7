@@ -12,6 +12,9 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ### 1. OBJETIVOS
 
+- Clarificar el estudio de la inductancia e inductores además de los transitorios inductivos todo esto aplicando los conocimientos aprendidos durante clases.
+
+- 
 ### 2. MARCO TEÓRICO
 
 #### Capitulo 13 (Inductancia e inductores)
