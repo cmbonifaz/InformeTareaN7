@@ -107,6 +107,14 @@ Circuito abierto
 
 <img src="imagenes/cap14/fig14-37.jpg">
 
+Ejercicio a
+
+Ejercicio b
+
+Ejercicio c
+
+Ejercicio d
+
 ***3. Repita el problema 2 si L1 se reemplaza con un capacitor descargado.***
 
 ***5. El interruptor de la figura 14-39 está cerrado en t=0 s.***
