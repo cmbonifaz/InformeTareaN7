@@ -105,9 +105,13 @@ Circuito abierto
 
 ***b. Para cada circuito de la figura 14-37, determine iS y vL inmediatamente después de que el interruptor se cierra.***
 
+<img src="imagenes/cap14/fig14-37.jpg">
+
 ***3. Repita el problema 2 si L1 se reemplaza con un capacitor descargado.***
 
 ***5. El interruptor de la figura 14-39 está cerrado en t=0 s.***
+
+<img src="imagenes/cap14/fig14-39.jpg">
 
 ***a. ¿Cuál es la constante de tiempo del circuito?***
 
@@ -119,6 +123,8 @@ Circuito abierto
 
 ***7. Repita el problema 5 para el circuito de la figura 14-41 con L =4 H.***
 
+<img src="imagenes/cap14/fig14-41.jpg">
+
 ***a. ¿Cuál es la constante de tiempo del circuito?***
 
 ***b. ¿Cuánto tiempo pasa hasta que la corriente alcanza su valor estable?***
@@ -129,11 +135,15 @@ Circuito abierto
 
 ***9. Cierre el interruptor en t=0 s y determine las ecuaciones para iL y vL para el circuito de la figura 14-42. Calcule iL y vL en t =3.4 ms.***
 
+<img src="imagenes/cap14/fig14-42.jpg">
+
 ***11. Para el circuito de la figura 14-1(b), el voltaje en la inductancia en el instante en que el interruptor se cierra es 80 V, la corriente final de estado estable es 4 A, y el transitorio dura 0.5 s. Determine E, R y L.***
 
 ***13. Para la figura 14-1(b), si vL=40e^2000t  V y la corriente de estado estable es 10 mA, ¿cuáles son los valores de E, R y L?***
 
 ***15. Para la figura 14-43, R1=20Ω , R2=230Ω  y L=0.5 H y la corriente del inductor ha alcanzado un valor estable de 5 A con el interruptor cerrado. En t=0 s, el interruptor se abre.***
+
+<img src="imagenes/cap14/fig14-43.jpg">
 
 ***a. ¿Cuál es la constante de tiempo en la fase de disminución?***
 
@@ -147,9 +157,15 @@ Circuito abierto
 
 ***19. Para la figura 14-43, L=20 H. La corriente durante la fase de crecimiento y disminución se muestra en la figura 14-44. Determine R1 y R2.***
 
+<img src="imagenes/cap14/fig14-44.jpg">
+
 ***21. Para la bobina de la figura 14-45 Rl=1.7  y L=150 mH. Determine la corriente de la bobina en t=18.4 ms.***
 
+<img src="imagenes/cap14/fig14-45.jpg">
+
 ***23. Para la figura 14-46, el circuito ha alcanzado el estado estable con el interruptor cerrado. Ahora se abre el interruptor.***
+
+<img src="imagenes/cap14/fig14-46.jpg">
 
 ***a. Determine la constante de tiempo del circuito desenergizado.***
 
@@ -161,8 +177,11 @@ Circuito abierto
 
 ***b. ¿Cuánto es iL y vL en t=25 ms?***
 
+<img src="imagenes/cap14/fig14-47.jpg">
+
 ***27. Un circuito desconocido que contiene fuentes cd y resistores tiene un voltaje a circuito abierto de 45 volts. Cuando sus terminales de salida se ponen en corto, la corriente de cortocircuito es 0.15 A. Un interruptor, resistor e inductancia están conectados (figura 14-48). Determine la corriente y el voltaje del inductor, 2.5 ms después que el interruptor se ha cerrado.***
 
+<img src="imagenes/cap14/fig14-48.jpg">
 
 ### 4. VIDEO
 
