@@ -99,6 +99,71 @@ c. ¿Cuál es la corriente en t 10 s?
 
 #### Capitulo 14 (Transitorios inductivos)
 
+***1. a. ¿A qué se parece un inductor que no conduce corriente en el instante que se acciona el interruptor?***
+
+Circuito abierto
+
+***b. Para cada circuito de la figura 14-37, determine iS y vL inmediatamente después de que el interruptor se cierra.***
+
+***3. Repita el problema 2 si L1 se reemplaza con un capacitor descargado.***
+
+***5. El interruptor de la figura 14-39 está cerrado en t=0 s.***
+
+***a. ¿Cuál es la constante de tiempo del circuito?***
+
+***b. ¿Cuánto tiempo pasa hasta que la corriente alcanza su valor estable?***
+
+***c. Determine las ecuaciones para iL y vL.***
+
+***d. Calcule los valores para iL y vL a intervalos de una constante de tiempo desde t=0 hasta 5𝞃.***
+
+***7. Repita el problema 5 para el circuito de la figura 14-41 con L =4 H.***
+
+***a. ¿Cuál es la constante de tiempo del circuito?***
+
+***b. ¿Cuánto tiempo pasa hasta que la corriente alcanza su valor estable?***
+
+***c. Determine las ecuaciones para iL y vL.***
+
+***d. Calcule los valores para iL y vL a intervalos de una constante de tiempo desde t=0 hasta 5𝞃.***
+
+***9. Cierre el interruptor en t=0 s y determine las ecuaciones para iL y vL para el circuito de la figura 14-42. Calcule iL y vL en t =3.4 ms.***
+
+***11. Para el circuito de la figura 14-1(b), el voltaje en la inductancia en el instante en que el interruptor se cierra es 80 V, la corriente final de estado estable es 4 A, y el transitorio dura 0.5 s. Determine E, R y L.***
+
+***13. Para la figura 14-1(b), si vL=40e^2000t  V y la corriente de estado estable es 10 mA, ¿cuáles son los valores de E, R y L?***
+
+***15. Para la figura 14-43, R1=20Ω , R2=230Ω  y L=0.5 H y la corriente del inductor ha alcanzado un valor estable de 5 A con el interruptor cerrado. En t=0 s, el interruptor se abre.***
+
+***a. ¿Cuál es la constante de tiempo en la fase de disminución?***
+
+***b. Determine las ecuaciones para iL y vL.***
+
+***c. Calcule los valores para iL y vL a intervalos de una constante de tiempo desde t=0 hasta 5 𝞃.***
+
+***d. Grafique iL y vL. Marque el eje en 𝞃 y en segundos.***
+
+***17. Dado vL=2700 Ve^100t. Use la curva universal de la constante de tiempo para determinar vL en t=20 ms.***
+
+***19. Para la figura 14-43, L=20 H. La corriente durante la fase de crecimiento y disminución se muestra en la figura 14-44. Determine R1 y R2.***
+
+***21. Para la bobina de la figura 14-45 Rl=1.7  y L=150 mH. Determine la corriente de la bobina en t=18.4 ms.***
+
+***23. Para la figura 14-46, el circuito ha alcanzado el estado estable con el interruptor cerrado. Ahora se abre el interruptor.***
+
+***a. Determine la constante de tiempo del circuito desenergizado.***
+
+***b. Determine las ecuaciones para iL y vL.***
+
+***c. Encuentre el voltaje en el inductor y la corriente a través de él en t=17.8s, use las ecuaciones que se determinaron antes.***
+
+***25. a. Repita el problema 22, partes (a) y (b) para el circuito de la figura 14-47.***
+
+***b. ¿Cuánto es iL y vL en t=25 ms?***
+
+***27. Un circuito desconocido que contiene fuentes cd y resistores tiene un voltaje a circuito abierto de 45 volts. Cuando sus terminales de salida se ponen en corto, la corriente de cortocircuito es 0.15 A. Un interruptor, resistor e inductancia están conectados (figura 14-48). Determine la corriente y el voltaje del inductor, 2.5 ms después que el interruptor se ha cerrado.***
+
+
 ### 4. VIDEO
 
 ### 5. CONCLUSIONES 
