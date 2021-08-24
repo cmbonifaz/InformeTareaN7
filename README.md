@@ -215,13 +215,21 @@ Ejercicio d
 
 ***17. Dado vL=2700 Ve^100t. Use la curva universal de la constante de tiempo para determinar vL en t=20 ms.***
 
+<img src="imagenes/cap14/ejer17a.jpg">
+
 ***19. Para la figura 14-43, L=20 H. La corriente durante la fase de crecimiento y disminución se muestra en la figura 14-44. Determine R1 y R2.***
 
 <img src="imagenes/cap14/fig14-44.jpg">
 
+<img src="imagenes/cap14/ejer19a.jpg">
+
 ***21. Para la bobina de la figura 14-45 Rl=1.7  y L=150 mH. Determine la corriente de la bobina en t=18.4 ms.***
 
 <img src="imagenes/cap14/fig14-45.jpg">
+
+<img src="imagenes/cap14/ejer21a.jpg">
+
+<img src="imagenes/cap14/ejer21b.jpg">
 
 ***23. Para la figura 14-46, el circuito ha alcanzado el estado estable con el interruptor cerrado. Ahora se abre el interruptor.***
 
