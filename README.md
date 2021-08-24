@@ -179,13 +179,27 @@ Ejercicio d
 
 ***d. Calcule los valores para iL y vL a intervalos de una constante de tiempo desde t=0 hasta 5𝞃.***
 
+<img src="imagenes/cap14/ejer7d_1.jpg">
+
+<img src="imagenes/cap14/ejer7d_2.jpg">
+
+<img src="imagenes/cap14/ejer7d_3.jpg">
+
 ***9. Cierre el interruptor en t=0 s y determine las ecuaciones para iL y vL para el circuito de la figura 14-42. Calcule iL y vL en t =3.4 ms.***
 
 <img src="imagenes/cap14/fig14-42.jpg">
 
+<img src="imagenes/cap14/ejer9a.jpg">
+
+<img src="imagenes/cap14/ejer9b.jpg">
+
 ***11. Para el circuito de la figura 14-1(b), el voltaje en la inductancia en el instante en que el interruptor se cierra es 80 V, la corriente final de estado estable es 4 A, y el transitorio dura 0.5 s. Determine E, R y L.***
 
+<img src="imagenes/cap14/ejer11a.jpg">
+
 ***13. Para la figura 14-1(b), si vL=40e^2000t  V y la corriente de estado estable es 10 mA, ¿cuáles son los valores de E, R y L?***
+
+<img src="imagenes/cap14/ejer13a.jpg">
 
 ***15. Para la figura 14-43, R1=20Ω , R2=230Ω  y L=0.5 H y la corriente del inductor ha alcanzado un valor estable de 5 A con el interruptor cerrado. En t=0 s, el interruptor se abre.***
 
