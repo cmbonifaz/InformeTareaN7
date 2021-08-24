@@ -97,6 +97,43 @@ c. ¿Cuál es la corriente en t 10 s?
 
 <img src="imagenes/cap13/Captura22.PNG">
 
+19. Repita el problema 17 si las inductancias están conectadas en paralelo.
+
+<img src="imagenes/cap13/Ejer-19.jpg">
+
+21. Determine LT para los circuitos de la figura 13-37.
+
+<img src="imagenes/cap13/Ejer-21.jpg">
+
+23. Una inductancia de 30H está conectada en serie con una inductancia de 60H, y una inductancia de 10H está conectada en paralelo con la combinación
+en serie. ¿Qué valor tiene LT?
+
+<img src="imagenes/cap13/Ejer-23.jpg">
+
+25. Para los circuitos de la figura 13-40, determine L3 y L4.
+
+<img src="imagenes/cap13/Ejer-25.jpg">
+
+27. Dos inductancias de 6 y 4 H están en conectadas en paralelo. Después de que se agrega una tercera inductancia, LT=4 H. ¿Cuál es el valor de la tercera inductancia y cómo está conectada?
+
+<img src="imagenes/cap13/Ejer-27.jpg">
+
+29. Inductancias de 8, 12 y 1.2 H están conectadas en un circuito. Si LT=6 H, ¿cómo están conectados los inductores?
+
+<img src="imagenes/cap13/Ejer-29.jpg">
+
+31. Por medio de la combinación de elementos, reduzca cada uno de los circuitos de la figura 13-42 a su forma más simple.
+
+<img src="imagenes/cap13/Ejer-31.jpg">
+     
+33. Encuentre la energía almacenada en el inductor de la figura 13-44.
+     
+<img src="imagenes/cap13/Ejer-33.jpg">
+
+35. En la figura 13-46, un medidor de inductancia mide 7 H. ¿Cuál es la falla probable?
+
+<img src="imagenes/cap13/Ejer-35.jpg">
+
 #### Capitulo 14 (Transitorios inductivos)
 
 ***1. a. ¿A qué se parece un inductor que no conduce corriente en el instante que se acciona el interruptor?***
