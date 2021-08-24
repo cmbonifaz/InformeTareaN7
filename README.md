@@ -109,13 +109,29 @@ Circuito abierto
 
 Ejercicio a
 
+<img src="imagenes/cap14/ejer1a.png">
+
 Ejercicio b
+
+<img src="imagenes/cap14/ejer1b.png">
 
 Ejercicio c
 
+<img src="imagenes/cap14/ejer1c.png">
+
 Ejercicio d
 
+<img src="imagenes/cap14/ejer1d.png">
+
 ***3. Repita el problema 2 si L1 se reemplaza con un capacitor descargado.***
+
+<img src="imagenes/cap14/ejer3a.png">
+
+<img src="imagenes/cap14/ejer3b.png">
+
+<img src="imagenes/cap14/ejer3c.png">
+
+<img src="imagenes/cap14/ejer3d.png">
 
 ***5. El interruptor de la figura 14-39 está cerrado en t=0 s.***
 
@@ -123,11 +139,27 @@ Ejercicio d
 
 ***a. ¿Cuál es la constante de tiempo del circuito?***
 
+<img src="imagenes/cap14/ejer5a.png">
+
 ***b. ¿Cuánto tiempo pasa hasta que la corriente alcanza su valor estable?***
+
+<img src="imagenes/cap14/ejer5b.png">
 
 ***c. Determine las ecuaciones para iL y vL.***
 
+<img src="imagenes/cap14/ejer5c.png">
+
 ***d. Calcule los valores para iL y vL a intervalos de una constante de tiempo desde t=0 hasta 5𝞃.***
+
+<img src="imagenes/cap14/ejer5d_1.png">
+
+<img src="imagenes/cap14/ejer5d_2.png">
+
+<img src="imagenes/cap14/ejer5d_3.png">
+
+<img src="imagenes/cap14/ejer5d_4.png">
+
+<img src="imagenes/cap14/ejer5d_5.png">
 
 ***7. Repita el problema 5 para el circuito de la figura 14-41 con L =4 H.***
 
@@ -135,9 +167,15 @@ Ejercicio d
 
 ***a. ¿Cuál es la constante de tiempo del circuito?***
 
+<img src="imagenes/cap14/ejer7a.png">
+
 ***b. ¿Cuánto tiempo pasa hasta que la corriente alcanza su valor estable?***
 
+<img src="imagenes/cap14/ejer7b.png">
+
 ***c. Determine las ecuaciones para iL y vL.***
+
+<img src="imagenes/cap14/ejer7c.jpg">
 
 ***d. Calcule los valores para iL y vL a intervalos de una constante de tiempo desde t=0 hasta 5𝞃.***
 
