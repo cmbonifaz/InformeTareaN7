@@ -16,7 +16,6 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 - Analizar y comprender el contenido mostrado en los capitulos 13 y 14 para posteriormente realizar los ejercicios propuestos en estos capitulos respectivamente.
 
--
 ### 2. MARCO TEÓRICO
 
 #### Capitulo 13 (Inductancia e inductores)
