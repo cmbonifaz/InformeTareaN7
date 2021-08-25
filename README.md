@@ -332,6 +332,8 @@ Ejercicio d
 
 ### 5. CONCLUSIONES 
 
+- Se puede concluir que mediante distintos tipos de ejercicios propuestos sea por la inductancia e inductores, o por los transitorios inductivos que lo aprendidio en clases se ha clarificado.
+
 ### 6. BIBLIOGRAFÍA
 
 Robbins, A., & Miller, W. (2008). Análisis de circuitos. Estados Unidos: Cengage Learning.
