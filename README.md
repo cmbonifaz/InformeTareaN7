@@ -310,9 +310,21 @@ Ejercicio d
 
 <img src="imagenes/cap14/fig14-47.jpg">
 
+<img src="imagenes/cap14/ejer25a_1.jpg">
+
+<img src="imagenes/cap14/ejer25a_2.jpg">
+
+<img src="imagenes/cap14/ejer25a_3.jpg">
+
+<img src="imagenes/cap14/ejer25a_4.jpg">
+
 ***27. Un circuito desconocido que contiene fuentes cd y resistores tiene un voltaje a circuito abierto de 45 volts. Cuando sus terminales de salida se ponen en corto, la corriente de cortocircuito es 0.15 A. Un interruptor, resistor e inductancia están conectados (figura 14-48). Determine la corriente y el voltaje del inductor, 2.5 ms después que el interruptor se ha cerrado.***
 
 <img src="imagenes/cap14/fig14-48.jpg">
+
+<img src="imagenes/cap14/ejer27a_1.jpg">
+
+<img src="imagenes/cap14/ejer27a_2.jpg">
 
 ### 4. VIDEO
 
