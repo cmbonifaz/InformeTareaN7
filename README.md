@@ -19,6 +19,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 #### Capitulo 13 (Inductancia e inductores)
 
+<img src="imagenes/MapaconceptualCap13.jpg">
+
 #### Capitulo 14 (Transitorios inductivos)
 
 <img src="imagenes/cap14.png">
