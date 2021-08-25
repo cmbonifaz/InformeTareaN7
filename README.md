@@ -290,9 +290,19 @@ Ejercicio d
 
 ***a. Determine la constante de tiempo del circuito desenergizado.***
 
+<img src="imagenes/cap14/ejer23a_1.jpg">
+
+<img src="imagenes/cap14/ejer23a_2.jpg">
+
+<img src="imagenes/cap14/ejer23a_3.jpg">
+
 ***b. Determine las ecuaciones para iL y vL.***
 
+<img src="imagenes/cap14/ejer23b.jpg">
+
 ***c. Encuentre el voltaje en el inductor y la corriente a través de él en t=17.8s, use las ecuaciones que se determinaron antes.***
+
+<img src="imagenes/cap14/ejer23c.jpg">
 
 ***25. a. Repita el problema 22, partes (a) y (b) para el circuito de la figura 14-47.***
 
@@ -305,6 +315,8 @@ Ejercicio d
 <img src="imagenes/cap14/fig14-48.jpg">
 
 ### 4. VIDEO
+
+[Problemas Capítulos 13 y 14 - Informe Tarea N°7](https://youtu.be/1nTfMSmFnNY "Problemas Capítulos 13 y 14 - Informe Tarea N°7")
 
 ### 5. CONCLUSIONES 
 
