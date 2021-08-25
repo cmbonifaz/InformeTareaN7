@@ -14,7 +14,9 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 - Clarificar el estudio de la inductancia e inductores además de los transitorios inductivos todo esto aplicando los conocimientos aprendidos durante clases.
 
-- 
+- Analizar y comprender el contenido mostrado en los capitulos 13 y 14 para posteriormente realizar los ejercicios propuestos en estos capitulos respectivamente.
+
+-
 ### 2. MARCO TEÓRICO
 
 #### Capitulo 13 (Inductancia e inductores)
@@ -335,6 +337,8 @@ Ejercicio d
 ### 5. CONCLUSIONES 
 
 - Se puede concluir que mediante distintos tipos de ejercicios propuestos sea por la inductancia e inductores, o por los transitorios inductivos que lo aprendidio en clases se ha clarificado.
+
+- Gracias a esto hemos adquirido un mejor manejo de los circuitos electricos y somos capaces de resolver con mas efectividad los problemas de inductancie e inductores y transitorios inductivos. 
 
 ### 6. BIBLIOGRAFÍA
 
