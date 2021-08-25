@@ -244,11 +244,27 @@ Ejercicio d
 
 ***a. ¿Cuál es la constante de tiempo en la fase de disminución?***
 
+<img src="imagenes/cap14/ejer15a.jpg">
+
 ***b. Determine las ecuaciones para iL y vL.***
+
+<img src="imagenes/cap14/ejer15b.jpg">
 
 ***c. Calcule los valores para iL y vL a intervalos de una constante de tiempo desde t=0 hasta 5 𝞃.***
 
+<img src="imagenes/cap14/ejer15c_1.jpg">
+
+<img src="imagenes/cap14/ejer15c_2.jpg">
+
+<img src="imagenes/cap14/ejer15c_3.jpg">
+
 ***d. Grafique iL y vL. Marque el eje en 𝞃 y en segundos.***
+
+<img src="imagenes/cap14/ejer15d_1.jpg">
+
+<img src="imagenes/cap14/ejer15d_2.jpg">
+
+<img src="imagenes/cap14/ejer15d_3.jpg">
 
 ***17. Dado vL=2700 Ve^100t. Use la curva universal de la constante de tiempo para determinar vL en t=20 ms.***
 
